@@ -1,0 +1,21 @@
+/* main.css */
+* {
+	font-family: arial;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+.quizPanel {
+	text-align: center;
+	background-color: #dddddd;
+	padding: 10px;
+	border-radius: 40px;
+}
+
+button {
+	font-size: 30px;
+	padding: 5px;
+	width: 60%;
+}
