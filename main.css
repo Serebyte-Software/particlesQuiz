@@ -17,5 +17,6 @@ body {
 button {
 	font-size: 30px;
 	padding: 5px;
-	width: 60%;
+	width: 90%;
+	border-radius: 20px;
 }
